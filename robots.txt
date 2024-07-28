@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nalficke.github.io/sitemap.html.gz
+Sitemap: https://nalficke.github.io/app/sitemap.html.gz
+Sitemap: https://nalficke.github.io/assets/sitemap.html.gz
+Sitemap: https://nalficke.github.io/css/sitemap.html.gz
+Sitemap: https://nalficke.github.io/includes/sitemap.html.gz
+Sitemap: https://nalficke.github.io/item/sitemap.html.gz
+Sitemap: https://nalficke.github.io/src/sitemap.html.gz
